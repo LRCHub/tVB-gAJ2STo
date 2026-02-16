@@ -1,0 +1,79 @@
+# Hikaru Utada – Simple And Clean
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.96] When you walk away
+[00:03.06] You don't hear me say
+[00:05.80] Please, oh baby, don't go
+[00:11.43] Simple and clean is the way that you're making me feel tonight
+[00:19.28] It's hard to let it go
+[00:30.28] 
+[00:25.88] You're giving me
+[00:31.56] Too many things
+[00:34.53] Lately
+[00:36.93] You're all I need, oh
+[00:42.34] You smiled at me
+[00:45.58] And said
+[00:49.58] 
+[00:47.06] Don't get me wrong, I love you
+[00:49.80] But does that mean I have to meet your father?
+[00:55.18] When we are older you'll understand
+[00:59.23] What I meant when I said no
+[01:04.07] I don't think life is quite that simple
+[01:23.57] 
+[01:08.60] When you walk away
+[01:11.28] You don't hear me say
+[01:13.98] Please, oh baby, don't go
+[01:19.52] Simple and clean is the way that you're making me feel tonight
+[01:27.48] It's hard to let it go
+[01:38.48] 
+[01:33.00] So simple and clean
+[01:42.50] 
+[01:36.66] The daily things
+[01:39.44] Like this and that and what is what
+[01:42.36] That keep us all busy
+[01:46.77] Are confusing me
+[01:52.77] That's when you came to me
+[01:56.34] And said
+[02:00.34] 
+[01:57.87] Wish I could prove I love you
+[02:00.57] But does that mean I have to walk on water?
+[02:06.09] When we are older you'll understand
+[02:10.24] It's enough when I say so
+[02:14.73] And maybe
+[02:16.29] Some things are that simple
+[02:29.79] 
+[02:19.57] When you walk away
+[02:22.22] You don't hear me say
+[02:24.88] Please, oh baby, don't go
+[02:30.52] Simple and clean is the way that you're making me feel tonight
+[02:38.06] It's hard to let it go
+[02:49.06] 
+[02:41.30] Hold me
+[02:44.08] Whatever lies beyond this morning
+[02:48.84] Is a little later on
+[02:51.57] Regardless of warnings
+[02:54.47] The future doesn't scare me at all
+[03:00.11] Nothing's like before
+[03:10.61] 
+[03:03.80] When you walk away
+[03:05.83] You don't hear me say
+[03:08.52] Please, oh baby, don't go
+[03:13.87] Simple and clean is the way that you're making me feel tonight
+[03:21.63] It's hard to let it go
+[03:32.63] 
+[03:24.93] Hold me
+[03:27.65] Whatever lies beyond this morning
+[03:32.44] Is a little later on
+[03:35.40] Regardless of warnings
+[03:38.40] The future doesn't scare me at all
+[03:44.10] Nothing's like before
+[03:54.60] 
+[03:47.06] Hold me
+[03:49.47] Whatever lies beyond this morning
+[03:54.23] Is a little later on
+[03:57.24] Regardless of warnings
+[04:00.05] The future doesn't scare me at all
+[04:05.72] Nothing's like before
+```
