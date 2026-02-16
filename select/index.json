@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Simple And Clean",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-16T20:30:43.661767Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Simple And Clean",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_Simple_And_Clean_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Simple And Clean",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_Simple_And_Clean_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Simple and Clean (Planitb Remix)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Simple_and_Clean_(Planitb_Remix)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Simple And Clean (PLANITb Remix)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/04_Simple_And_Clean_(PLANITb_Remix)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Simple and Clean",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/05_Simple_and_Clean_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Simple and Clean -PLANITb Remix-",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/06_Simple_and_Clean_-PLANITb_Remix-_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Simple And Clean",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/07_Simple_And_Clean_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Simple and Clean (Ray Of Hope Mix)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/08_Simple_and_Clean_(Ray_Of_Hope_Mix)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Simple and Clean (PlanitB Remix)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/09_Simple_and_Clean_(PlanitB_Remix)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Simple and Clean (P's Club Mix)",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/10_Simple_and_Clean_(P's_Club_Mix)_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Simple And Clean [Rising Sun Rock Mix]",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/11_Simple_And_Clean_[Rising_Sun_Rock_Mix]_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Simple and Clean",
+      "artist": "Lollia feat. FamilyJules",
+      "has_synced": false,
+      "path": "select/12_Simple_and_Clean_Lollia_feat._FamilyJules.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Simple and Clean",
+      "artist": "Lollia, FamilyJules",
+      "has_synced": false,
+      "path": "select/13_Simple_and_Clean_Lollia,_FamilyJules.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "KH - Simple And Clean",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/14_KH_-_Simple_And_Clean_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Simple And Clean",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/15_Simple_And_Clean_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Simple And Clean",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/16_Simple_And_Clean_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Simple and Clean",
+      "artist": "Mree",
+      "has_synced": true,
+      "path": "select/17_Simple_and_Clean_Mree.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Simple and Clean",
+      "artist": "Lollia",
+      "has_synced": false,
+      "path": "select/18_Simple_and_Clean_Lollia.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Simple And Clean",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Simple_And_Clean_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Simple and Clean",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Simple_and_Clean_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Simple And Clean",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_Simple_And_Clean_宇多田_ヒカル.txt"
+    }
+  ]
+}
